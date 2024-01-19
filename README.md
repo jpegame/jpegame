@@ -2,9 +2,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpegame&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpegame&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div><br>
+<img  src ="https://awesome-github-stats.azurewebsites.net/user-stats/jpegame?theme=midnight-purple&background=151515&cardType=github"/>
+ &nbsp; 
+<img height="200" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jpegame&theme=dark&title_color=6E33B5&text_color=ffffff&border_color=E4E2E2&icon_color=6E33B5&layout=compact" />
 </div>
 
 ###
@@ -41,7 +42,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/jpegame/jpegame/output/snake.svg" alt="Snake animation" />
 
 ###
